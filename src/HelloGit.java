@@ -7,7 +7,7 @@ public class HelloGit {
 
 
         System.out.printf("master test");
-        System.out.printf("fix test");
+
 
 
 
