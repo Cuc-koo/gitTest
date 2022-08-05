@@ -7,7 +7,7 @@ public class gitTest {
 
         System.out.printf("master push");
         System.out.printf("master pull");
-
+        System.out.printf("update project");
 
 
     }
